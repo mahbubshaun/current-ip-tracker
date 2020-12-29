@@ -1,6 +1,6 @@
 # current-ip-tracker
 
-##User story / requirements:
+## User story / requirements:
 
 A java desktop application that tracks users current ip address and notify users if another user is using the same ip from ips stored in a database.   
 Java jre needs to be installed in the pc
